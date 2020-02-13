@@ -1,6 +1,4 @@
 #!/bin/bash
-# >>> PUT THIS SCRIPT OUTSIDE THE ROOT OF THE GIT REPO (1 level higher) <<<
-
 
 # DESCRIPTION:
 
