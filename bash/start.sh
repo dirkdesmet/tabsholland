@@ -374,7 +374,7 @@ function showOptions() {
 if [ "_$1" = "_" ]; then
     
     BANNER=$'\n\e[46mTabs Holland environment options\e[0m\e[36m\n================================\e[0m\n'
-    PS3=$'\nPlease make a choise: '
+    PS3=$'\nPlease make a choice: '
     while true; do
         echo -e "$BANNER"
         getOS
